@@ -6,6 +6,7 @@ namespace quart
     {
         static void Main(string[] args)
         {
+            // Good
             //setup
             double initalValue = 0.0;
             int conversion = 0;
